@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer
+I'm a motivated individual with a comprehensive understanding of C++, skilled in Data Structures and Algorithms with experience in Web Development and a dedicated problem solver. Actively seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.
 
 
 
