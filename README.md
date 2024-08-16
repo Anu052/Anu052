@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a motivated individual with a comprehensive understanding of C++ , skilled in Data Structures and Algorithms with experience in Web Development and a dedicated problem solver. Actively seeking a position in a growth-oriented company where I can use my skills to the advantage of the company while having the scope to develop my own skills.
+I am a highly motivated and adaptable software developer with a wealth of experience across multiple technology stacks. I have had the privilege of working on a variety of projects, showcasing my proficiency in both the MERN (MongoDB, Express, React, Node.js) and Laravel stacks. This versatility has allowed me to approach software development with a well-rounded perspective.
+
+My journey in software development has provided me with a deep understanding of the intricacies of the field. I take pride in my ability to tackle complex problems head-on, leveraging my strong problem-solving skills to craft elegant solutions .
 
 
 
